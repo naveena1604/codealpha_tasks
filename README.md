@@ -69,7 +69,7 @@ This project uses YOLOv8 for object detection and Deep SORT for tracking across 
 
 - 🎓 Internship Duration: 20th June 2025 – 20th July 2025  
 - 🧠 Skills Gained: NLP, Object Detection, Tracking, Streamlit UI, Model Integration  
-- 💼 GitHub Repo: [codealpha_tasks](https://github.com/Laharikodali04/codealpha_tasks)  
+- 💼 GitHub Repo: [codealpha_tasks](https://github.com/naveena1604/codealpha_tasks)  
 - 📬 Connect: [LinkedIn – Naveena Annamaneni](https://www.linkedin.com/in/naveena-sivaiah-91b0b6326)
 
 ---
